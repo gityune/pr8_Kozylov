@@ -1,5 +1,9 @@
 import random
+<<<<<<< HEAD
 # Модернизация. Добавление символов
+=======
+# Модернизация. Добавление символ
+>>>>>>> dev
 # Модернизация 2.0. Добавление верхний регистр
 chars = '+-/*!&$#?=@<>abcdefghijklnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890'
 number = input('количество паролей?'+ "\n")
