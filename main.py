@@ -1,5 +1,5 @@
 import random
-
+# Модернизация. Добавление символов
 chars = '+-/*!&$#?=@<>abcdefghijklnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890'
 number = input('количество паролей?'+ "\n")
 length = input('длина пароля?'+ "\n")
